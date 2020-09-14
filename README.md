@@ -21,7 +21,7 @@ OR
 
 3. Simply run the executable file [game.exe]
 
-4. If Windows fail to run the game.exe, then turnoff real-time protection in Windows Security (this will allow third-party apps to run)
+4. If Windows fail to run [game.exe], then turnoff real-time protection in Windows Security
 
 Sample Screenshot :
 
