@@ -13,15 +13,9 @@ For Unix-like OS :
 
 For Windows OS:
 
-1. Install PyGame [pip install pygame]
+1. Run executable file to play the game [game.exe]
 
-2. Run game.py to play the game [python game.py]
-
-OR
-
-3. Simply run the executable file [game.exe]
-
-4. If Windows fail to run [game.exe], then turnoff real-time protection in Windows Security
+2. If Windows fail to run [game.exe], then turnoff real-time protection in Windows Security
 
 Sample Screenshot :
 
