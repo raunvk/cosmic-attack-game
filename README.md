@@ -1,5 +1,5 @@
 
-# cosmic-attack-game
+# cosmic-attack
 
 Description : Flash Game using PyGame
 
