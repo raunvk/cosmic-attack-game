@@ -1,22 +1,22 @@
 
 # cosmic-attack
 
-Description : Flash Game using PyGame
+**Description** : Flash Game using PyGame
 
-Disclaimer : Make sure you have Python3 installed in your System
+**Disclaimer** : Make sure you have Python3 installed in your System
 
-For Unix-like OS :
+**For Unix-like OS** :
 
-1. Install PyGame [pip install pygame]
+1. Install PyGame [**$ pip install pygame**]
 
-2. Run game.py to play the game [python3 game.py]
+2. Run game.py to play the game [**$ python3 game.py**]
 
-For Windows OS:
+**For Windows OS** :
 
-1. Run executable file to play the game [game.exe]
+1. Run executable file to play the game [**game.exe**]
 
-2. If Windows fail to run [game.exe], then turnoff real-time protection in Windows Security
+2. If Windows fail to run [**game.exe**], then turnoff real-time protection in **Windows Security**
 
-Sample Screenshot :
+**Sample Screenshot** :
 
 ![](sample.png)
