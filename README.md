@@ -15,7 +15,7 @@
 
 1. Run executable file to play the game [**game.exe**]
 
-2. If Windows fail to run [**game.exe**], then turnoff real-time protection in **Windows Security**
+2. If Windows fail to run [**game.exe**], then turnoff **Real-Time Protection in Windows Security**
 
 **Sample Screenshot** :
 
