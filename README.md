@@ -13,9 +13,9 @@
 
 **For Windows OS** :
 
-1. Run executable file to play the game [**game.exe**]
+1. Run executable file to play the game **game.exe**
 
-2. If Windows fail to run [**game.exe**], then turnoff **Real-Time Protection in Windows Security** and re-run
+2. If Windows fail to run **game.exe**, then turnoff **Real-Time Protection in Windows Security** and re-run
 
 **Sample Screenshot** :
 
