@@ -19,4 +19,4 @@
 
 **Sample Screenshot** :
 
-![](sample.png)
+![](screenshot.png)
