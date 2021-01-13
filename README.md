@@ -5,7 +5,7 @@
 
 **Requisite** : Make sure you have Python3 installed in your System
 
-**For Unix-like OS** :
+**For Debian-based OS** :
 
 1. Install PyGame [**$ pip install pygame**]
 
