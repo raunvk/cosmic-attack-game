@@ -5,13 +5,13 @@
 
 **Requisite** : Make sure you have Python3 installed in your System
 
-**For Debian-based OS** :
+**How to Run (Linux)** :
 
 1. Install PyGame [**$ pip install pygame**]
 
 2. Run game.py to play the game [**$ python3 game.py**]
 
-**For Windows OS** :
+**How to Run (Windows)** :
 
 1. Run executable file **game.exe** to play the game 
 
