@@ -1,7 +1,7 @@
 
 # cosmic-attack
 
-**Description** : Flash Game using PyGame
+**Description** : Space Shooter Flash Game using PyGame
 
 **Requisite** : Make sure you have Python3 and Pip installed in your System
 
