@@ -1,5 +1,5 @@
 
-# cosmic-attack
+# cosmic-attack-game
 
 **Description** : Space Shooter Flash Game using PyGame
 
